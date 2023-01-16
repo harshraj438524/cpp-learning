@@ -1,0 +1,1 @@
+print(not(2>5 and 3/0>1 )or 4/0)

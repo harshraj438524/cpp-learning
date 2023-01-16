@@ -1,0 +1,1 @@
+{"name":"Local: tut84","url":"d:\\c++\\tut84.cpp","tests":[{"id":1650104561097,"input":"1\n6\n-5 -1 -1 2 -2 -3","output":""},{"id":1650448339689,"input":"1\n4\n1 2 3 4","output":""},{"id":1650448372182,"input":"1\n1 -5 1 -5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++\\tut84.cpp","group":"local","local":true}
